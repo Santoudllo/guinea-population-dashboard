@@ -20,7 +20,7 @@ Ce projet est un tableau de bord de visualisation de données complet pour les s
 1. **Clonez le dépôt :**
 
     ```bash
-    git clone https://github.com/votre-nom-utilisateur/guinea-population-dashboard.git
+    git clone hhttps://github.com/Santoudllo/guinea-population-dashboard.git
     ```
 
 2. **Installez les dépendances :**
